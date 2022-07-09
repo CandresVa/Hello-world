@@ -1,2 +1,2 @@
 # Hello-world
-This is my firs try in Git. Godd luck on my way :)
+This is my firs try in Git. Good luck on my way :)
